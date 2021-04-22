@@ -1,6 +1,6 @@
 # mugen
 
-![mugen](imgur.com image replace me!)
+![mugen]https://i.imgur.com/bn0itC9.png
 
 The Mugen keyboard is a passion project born from a curiosity of designing the most ideal keyboard for myself. Featuring an accent midpiece that goes from one side of the board to the other, terminating toward the front in a sharp angular feature that captures the aesthetic and vision I had. 
 
